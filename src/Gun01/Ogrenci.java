@@ -8,5 +8,7 @@ public class Ogrenci {
         System.out.println("merhaba 4");
 
         System.out.println("Safak merhaba 4");
+
+        System.out.println("Merhaba Dunya");
     }
 }
